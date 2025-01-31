@@ -19,5 +19,11 @@ This is a React Native Expo app designed to build A job Application app for HNG 
     1. Make changes to the code in your preferred code editor or IDE.
     2. Save your changes and reload the app in the Expo Go app.
     3. Use the Expo development tools, such as the debugger and console, to troubleshoot and optimize your app. 
-    
-## Troubleshooting :If you encounter any issues while cloning, building, or developing the app, refer to the Expo documentation and community forums for support. 
+## Hng Jobs offer
+ 1.React Native Developer : https://hng.tech/hire/react-native-developers
+ 2.Kotlin Developer : http://hng.tech/hire/kotlin-developers
+ 3.Android Developer : http://hng.tech/hire/android-developers
+ 4.Mobile UI/UX Designer : https://hng.tech/hire/mobile-ui-ux-developers
+
+## Troubleshooting 
+If you encounter any issues while cloning, building, or developing the app, refer to the Expo documentation and community forums for support. 

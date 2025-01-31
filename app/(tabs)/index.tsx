@@ -99,7 +99,7 @@ const Recommend =()=>{
       />
      </View>
      <View style={{flex:2.5,backgroundColor: 'transparent' , marginTop:3}}>
-      <Text style={{fontWeight:"600" , fontSize:16}}>Andriod Developer</Text>
+      <Text style={{fontWeight:"600" , fontSize:16}}>Android Developer</Text>
       <Text style={{fontWeight:"650" , fontSize:15, marginTop:5}}>HNG</Text>
       <View style={{flexDirection:'row',backgroundColor: 'transparent', marginTop:5}}>
       <FontAwesome
@@ -177,7 +177,7 @@ const Recent =()=>{
     Linking.openURL('http://hng.tech/hire/kotlin-developers')
   };
   const handleButtonPress3 = ()=>{
-    Linking.openURL('https://hng.tech/hire/mobile-ui-ux-developers')
+    Linking.openURL('https://hng.tech/hire/fluttter-developers')
   };
   const handleButtonPress4 = ()=>{
     Linking.openURL('https://hng.tech/hire/android-developers')
@@ -229,7 +229,7 @@ const Recent =()=>{
       />
      </View>
      <View style={{flex:3.5,backgroundColor: 'transparent'}}>
-      <Text style={{fontWeight:'bold' , fontSize:16}}>Andriod Developer</Text>
+      <Text style={{fontWeight:'bold' , fontSize:16}}>Android Developer</Text>
       <Text style={{fontWeight:"450" , fontSize:14}}>HNG</Text>
       <View style={{flexDirection:'row',backgroundColor: 'transparent' , marginTop:5}}>
       <FontAwesome
@@ -293,7 +293,7 @@ const Recent =()=>{
       />
      </View>
      <View style={{flex:3.5,backgroundColor: 'transparent' }}>
-      <Text style={{fontWeight:'bold' , fontSize:16}}>Mobile UI/UX Designer</Text>
+      <Text style={{fontWeight:'bold' , fontSize:16}}>Flutter Developer</Text>
       <Text style={{fontWeight:"450" , fontSize:14}}>HNG</Text>
       <View style={{flexDirection:'row',backgroundColor: 'transparent' , marginTop:5}}>
       <FontAwesome
